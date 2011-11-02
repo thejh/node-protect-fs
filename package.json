@@ -1,0 +1,11 @@
+{
+  "author": "Jann Horn <jannhorn@googlemail.com>",
+  "name": "protect-fs",
+  "description": "Sneaky nullbytes, be gone!",
+  "version": "0.1.0",
+  "homepage": "https://github.com/thejh/node-protect-fs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejh/node-protect-fs.git"
+  }
+}

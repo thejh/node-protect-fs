@@ -4,6 +4,11 @@ This module adds some protection aganist poison null bytes to the native "fs" mo
 
 This modifies all relevant fs methods (I hope I didn't forget any) to give you this protection.
 
+Installation
+============
+
+    npm install protect-fs
+
 Examples
 ========
 
